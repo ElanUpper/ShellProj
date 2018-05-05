@@ -1,3 +1,1 @@
-#! /bin/bash
-
-who | wc -l
+hello
