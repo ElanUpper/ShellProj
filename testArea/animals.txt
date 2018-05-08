@@ -1,0 +1,14 @@
+snake
+snake
+bird
+dog
+cat
+bird
+snake
+dog
+snake
+dog
+cat
+snake
+snake
+dog
